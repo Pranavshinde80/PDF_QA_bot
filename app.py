@@ -16,7 +16,7 @@ app.secret_key = 'Nikhil@2309'
 # Initialize the vectorstore globally
 vectorstore = None
 
-# Helper function to clear the vector store
+# Helper function to clear the vector store1
 def clear_vector_store():
     global vectorstore
     vectorstore = None
